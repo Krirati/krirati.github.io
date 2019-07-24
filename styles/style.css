@@ -1,0 +1,29 @@
+p {
+    color: darkred;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+html {
+    background-color: #00539F;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background-color: #FF9500;
+    border: 5px solid black;
+    margin: 0 auto;
+    width: 600px ;
+    padding: 0 20px 20px 20px;
+}
+h1 {
+ text-shadow: 3px 3px 1px black;
+ text-align: center;
+ color: cadetblue;
+ padding: 20px 0;
+ margin: 0 ;
+ font-size: 60px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
